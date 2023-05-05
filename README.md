@@ -12,3 +12,6 @@ TECNOLOGIAS UTILIZADAS:
 * Postman
 
 ![image](https://user-images.githubusercontent.com/111644685/236358873-9365c735-f243-4e89-b402-e7d88c0cce88.png)
+
+
+linkedin:https://www.linkedin.com/in/victor-ogata/
